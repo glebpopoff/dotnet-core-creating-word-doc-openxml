@@ -146,4 +146,5 @@ app.UseSwagger(c => { c.RouteTemplate = "api/swagger/{documentName}/swagger.json
 ```
 # Test! Either use Swagger or directly navigate to your controller
 Swagger: http://localhost:5000/api/swagger/index.html
-Directly naviage: http://localhost:5000/api/export/demo
+
+Directly navigate: http://localhost:5000/api/export/demo
