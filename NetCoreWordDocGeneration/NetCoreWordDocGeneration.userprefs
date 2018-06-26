@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E2F4E43E-1659-4667-8247-EE04672127B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCoreWordDocGeneration/Startup.cs">
+    <Files>
+      <File FileName="NetCoreWordDocGeneration/Controllers/DemoController.cs" Line="15" Column="36" />
+      <File FileName="NetCoreWordDocGeneration/Util/WordOutputFormatter.cs" Line="94" Column="21" />
+      <File FileName="NetCoreWordDocGeneration/Dtos/DemoDto.cs" Line="7" Column="47" />
+      <File FileName="NetCoreWordDocGeneration/appsettings.json" Line="1" Column="1" />
+      <File FileName="NetCoreWordDocGeneration/Program.cs" Line="1" Column="1" />
+      <File FileName="NetCoreWordDocGeneration/Startup.cs" Line="37" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NetCoreWordDocGeneration PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

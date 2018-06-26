@@ -1,0 +1,11 @@
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/bin/Debug/netcoreapp2.0/NetCoreWordDocGeneration.deps.json
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/bin/Debug/netcoreapp2.0/NetCoreWordDocGeneration.runtimeconfig.json
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/bin/Debug/netcoreapp2.0/NetCoreWordDocGeneration.runtimeconfig.dev.json
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/bin/Debug/netcoreapp2.0/NetCoreWordDocGeneration.dll
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/bin/Debug/netcoreapp2.0/NetCoreWordDocGeneration.pdb
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/obj/Debug/netcoreapp2.0/NetCoreWordDocGeneration.csprojResolveAssemblyReference.cache
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/obj/Debug/netcoreapp2.0/NetCoreWordDocGeneration.csproj.CoreCompileInputs.cache
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/obj/Debug/netcoreapp2.0/NetCoreWordDocGeneration.AssemblyInfoInputs.cache
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/obj/Debug/netcoreapp2.0/NetCoreWordDocGeneration.AssemblyInfo.cs
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/obj/Debug/netcoreapp2.0/NetCoreWordDocGeneration.dll
+/Users/glebp/Projects/github/dotnet-core-creating-word-doc-openxml/NetCoreWordDocGeneration/NetCoreWordDocGeneration/obj/Debug/netcoreapp2.0/NetCoreWordDocGeneration.pdb
