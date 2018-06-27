@@ -1,7 +1,7 @@
-# How to create Word Documents in .NET Core using OpenXML
-This guide will help you generate Word Documents using MS OpenXML library in .NET core.
+# How to create Word Documents in .NET Core using OpenXML and OutputFormatter
+This guide will help you generate Word Documents using MS OpenXML library in .NET core with the help of an OutputFormatter
 
-I'm using .NET Core 2.0 and OpenXml 2.8.1. The demo project will demostrate how to create Word Documents (Docx) using Microsoft OpenXml library. The solution relies on .NET OutputFormatter to create a word document using a template (DataExport folder).
+The projec tuses .NET Core 2.0 and OpenXml 2.8.1 and creates Word Documents (Docx) using Microsoft OpenXml library. The solution relies on .NET OutputFormatter to create a file using a template (DataExport folder).
 
 Here's a quick setup:
 
